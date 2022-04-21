@@ -1,0 +1,21 @@
+export const questions =[
+    {question:"Para qué sirve una SSD",
+    choices:["Para ventilar la pc",
+    "Para guardar datos permanentes",
+    "Para guardar datos temporales",], 
+    answer: "Para guardar datos permanentes",
+},
+{question:"Qué es  javascript",
+    choices:["Un lenguaje de programación",
+    "Una librería de java",
+    "Un software de retoque digital",], 
+    answer: "Un lenguaje de programación",
+},
+{question:"Dónde se aloján las webs",
+    choices:["En el computador del programador",
+    "En un servidor",
+    "En una base de datos",], 
+    answer: "En un servidor",
+},
+];
+
